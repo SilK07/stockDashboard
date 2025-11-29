@@ -28,7 +28,7 @@ It helps visualize price movements, trends, and market volatility for any select
 ## 🖼️ Screenshots
 
 ### Price Chart  
-![Price Chart](images/priceChart.png) 
+![Price Chart](images/price_Chart.png) 
 
 ---
 
