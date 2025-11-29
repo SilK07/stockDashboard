@@ -28,7 +28,7 @@ It helps visualize price movements, trends, and market volatility for any select
 ## 🖼️ Screenshots
 
 ### Price Chart  
-![Price Chart](images/price_Chart.png) 
+![Price Chart](images/price_Chart.PNG)
 
 ---
 
@@ -37,39 +37,11 @@ It helps visualize price movements, trends, and market volatility for any select
 
 ---
 
-## 🏗 Project Structure
-
-project/
-│
-├── data/
-│ └── raw/ # downloaded Yahoo Finance CSV files
-│
-├── src/
-│ ├── app.py # Dash app entry point
-│ │
-│ ├── dashboard/
-│ │ ├── layout.py # dashboard layout
-│ │ ├── callbacks.py # chart update logic
-│ │ └── charts.py # candlestick + volatility charts
-│ │
-│ ├── data_fetch/
-│ │ └── fetch_data.py # fetches OHLCV data from yfinance
-│ │
-│ └── processing/
-│ ├── clean_data.py # cleans and formats data
-│ └── indicators.py # MA20, MA50, volatility calculations
-│
-├── requirements.txt
-└── run.py # runs fetch script + dashboard
-
-
----
-
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/stock-market-dashboard.git
+git clone https://github.com/SilK07/stock-market-dashboard.git
 cd stock-market-dashboard
 ```
 
