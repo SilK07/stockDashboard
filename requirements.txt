@@ -1,0 +1,10 @@
+yfinance
+pandas
+numpy
+plotly
+dash
+dash-bootstrap-components
+requests
+python-dotenv
+SQLAlchemy
+ta
